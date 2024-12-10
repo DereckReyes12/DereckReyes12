@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Dereck1425
 [instagram]: https://www.instagram.com/dereck1675
-[linkedin]:  https://linkedin.com/in/Dereck  
+[linkedin]: https://linkedin.com/in/Dereck Gonzalez 
