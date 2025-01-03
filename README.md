@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DereckReyes12/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DereckReyes12/azure-network-protocols-1)
+  - <b>[Automated Backup Script](https://github.com/DereckReyes12/Automated-Backup-Script)
 
 <h2>Connect with me:</h2>
 
