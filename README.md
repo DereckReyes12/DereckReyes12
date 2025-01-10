@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DereckReyes12/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DereckReyes12/azure-network-protocols-1)
   - <b>[Automated Backup Script](https://github.com/DereckReyes12/Automated-Backup-Script)
-
+  - [pythin-code-self-improvement-tracker](https://github.com/DereckReyes12/python-code-self-improvement-tracker).
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
