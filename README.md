@@ -1,22 +1,34 @@
-<h1>Hi, I'm Dereck, an <a href="https://linkedin.com/in/Dereck Gonzalez">IT Professional</a>☺</h1>
+# <a href="https://www.linkedin.com/in/joshmadakor/">dereck-reyes</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<h2> Information Technology Projects:</h2>
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/DereckReyes12/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/DereckReyes12/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/DereckReyes12/ticket-lifecycle/blob/patch-1/README.md)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DereckReyes12/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DereckReyes12/azure-network-protocols-1)
-  - <b>[Automated Backup Script](https://github.com/DereckReyes12/Automated-Backup-Script)
-  - [python-code-self-improvement-tracker](https://github.com/DereckReyes12/python-code-self-improvement-tracker).
-<h2>Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## ⚠️ Vulnerability Management Projects
 
-[twitter]: https://twitter.com/Dereck1425
-[instagram]: https://www.instagram.com/dereck1675
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/___________
+[youtube]: https://www.youtube.com/c/___________
+[instagram]: https://www.instagram.com/___________
+[linkedin]: https://linkedin.com/in/___________
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
+
 [linkedin]: https://linkedin.com/in/DereckGonzalez 
